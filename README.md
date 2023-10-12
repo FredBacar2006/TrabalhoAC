@@ -1,4 +1,4 @@
-## Trabalho feito por: **Hélio Tavares**, **Bohdan Radhhik**, **Frederico Bacar**
+## Trabalho feito por: **Hélio Tavares**, **Bohdan Radchik**, **Frederico Bacar**
 
 ## Turma 11ºQ1
 
