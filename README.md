@@ -28,3 +28,9 @@
 --- 
 
 *Essas são apenas algumas das principais inovações em microprocessadores na década de 2000. Cada uma dessas inovações contribuiu significativamente para o avanço da tecnologia de processadores e teve um impacto duradouro na indústria de computadores.*
+
+---
+
+# Imagens
+
+ 
