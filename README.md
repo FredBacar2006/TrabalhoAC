@@ -34,3 +34,18 @@
 # Imagens
 
  
+
+![Alt Text](amdathlon64.jpg)
+![Alt Text](amdphenom.jpg)
+![Alt Text](Geforce3gpu.jpg)
+![Alt Text](hyperthreading.jpg)
+![Alt Text](intelatom.png)
+![Alt Text](intelcore2duo.jpg)
+![Alt Text](intelpentium42000.jpg)
+![Alt Text](multicoreprocessors.webp)
+
+
+
+
+
+
